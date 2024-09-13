@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
+				"folderPath": "target",
 				"fileSystem": "dirstaging"
 			},
 			"columnDelimiter": ",",
